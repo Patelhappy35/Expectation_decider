@@ -122,5 +122,3 @@ Feel free to explore the dashboard and dataset.
 **Happy Patel**
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Data Analytics
-
-Data Analysis Student
